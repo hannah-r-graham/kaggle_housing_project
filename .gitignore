@@ -1,0 +1,19 @@
+# O/S files
+.DS_Store
+
+# VS Code files
+.vscode/
+
+# Python build files
+__pycache__/
+*.pyc
+
+# Environment files
+/implementation/venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Flask stuff:
+/instance/
+.webassets-cache
